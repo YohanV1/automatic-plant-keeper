@@ -6,9 +6,9 @@ int sensor = A0;
 int sens_val;
 int flag = 0;
 
-char auth[] = "KGl0JNpPzQOWeNLvmx8UmotIZ0mS1RK7";
-char ssid[] = "VVAMAPLE";
-char pass[] = "admin2975";
+char auth[] = "key";
+char ssid[] = "username";
+char pass[] = "password";
 
 int Relay = 0;
 int automatic = 1;
